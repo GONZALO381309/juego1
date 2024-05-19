@@ -1,4 +1,4 @@
-const totalCards =12;
+const totalCards =8;
 let cards = []; //tarjetas generadas
 let selectedCards = []; //cuales han sido seleccionadas
 let valuesUsed = []; //que valores hemos usado
